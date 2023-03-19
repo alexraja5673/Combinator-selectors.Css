@@ -1,0 +1,18 @@
+h3{
+	color:red;
+}
+div p{
+	background-color:aqua;
+	
+}
+div>a{
+	color:green;
+	
+}
+div+article{
+	color:piink;
+	
+}
+div~img{
+	border:7px solid black;
+}
